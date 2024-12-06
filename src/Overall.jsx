@@ -3,7 +3,7 @@ import { Button } from "react-bootstrap";
 import { DndProvider } from "react-dnd";
 import { HTML5Backend } from "react-dnd-html5-backend";
 import FillInTheBlanks from './FillTheBlanks.jsx'
-import {MatchItemsToCategories} from "./categorize.jsx";
+import {MatchItemsToCategories} from "./Categorize.jsx";
 import Comprehension from './Comprehension.jsx'
 import {Routes, Route, NavLink, useNavigate} from 'react-router-dom'
 
