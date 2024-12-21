@@ -52,7 +52,7 @@ export default function Overall(){
                     <body>
                     <div class="container">
                         <h1>Your response has been submitted successfully!</h1>
-                        <button onclick="window.location.href='http://localhost:5175/'">Go Back</button>
+                        <button onclick="window.location.href='https://response-form-superassistant.netlify.app/'">Go Back</button>
                     </div>
                     </body>
                 </html>
